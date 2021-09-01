@@ -1,0 +1,11 @@
+1, 2, None, None, 32903, 32768, connected
+1, 1, EHCI Host Controller, Linux 5.11.0-27-generic ehci_hcd, 7531, 2, connected
+3, 1, xHCI Host Controller, Linux 5.11.0-27-generic xhci-hcd, 7531, 3, connected
+2, 4, Integrated Camera, SunplusIT INC., 1266, 45978, connected
+2, 3, None, None, 32903, 2012, connected
+2, 21, Mass Storage Device, JetFlash, 34148, 4096, connected
+2, 6, USB Keyboard, Logitech, 1133, 49960, connected
+2, 20, 15 Lite, Android, 1478, 61454, connected
+2, 5, MI wireless mouse, GTech, 10007, 20481, connected
+2, 2, USB2.0 HUB, None, 2565, 29201, connected
+2, 1, xHCI Host Controller, Linux 5.11.0-27-generic xhci-hcd, 7531, 2, connected
