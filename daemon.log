@@ -3,8 +3,7 @@
 3, 1, xHCI Host Controller, Linux 5.11.0-27-generic xhci-hcd, 7531, 3, connected
 2, 4, Integrated Camera, SunplusIT INC., 1266, 45978, connected
 2, 3, None, None, 32903, 2012, connected
-2, 59, USB Keyboard, Logitech, 1133, 49960, connected
-2, 60, 15 Lite, Android, 10821, 8200, connected
-2, 58, MI wireless mouse, GTech, 10007, 20481, connected
-2, 57, USB2.0 HUB, None, 2565, 29201, connected
-2, 56, Mass Storage Device, JetFlash, 34148, 4096, connected
+2, 117, Mass Storage Device, JetFlash, 34148, 4096, connected
+2, 116, USB Keyboard, Logitech, 1133, 49960, connected
+2, 115, MI wireless mouse, GTech, 10007, 20481, connected
+2, 114, USB2.0 HUB, None, 2565, 29201, connected
